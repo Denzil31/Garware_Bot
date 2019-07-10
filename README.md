@@ -8,4 +8,4 @@ Chat Bot designed for Garware Institute to help candidates with Course Informati
 * Working with JSON based Java V2 API for generating requests and processing, displaying responses to the user.
 * Structuring a client conversation with the Chat Bot and setting up entities and keywords for better hotword/meaning detection.
 * Understood core topics like intents, entites, fulfillment.
-* Added better training phases for lower fallback intents.
+* Added better training phases for lower fallback intents routing.
